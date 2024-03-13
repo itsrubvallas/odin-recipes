@@ -1,1 +1,2 @@
 # odin-recipes
+Foodie Delights is a website dedicated to bringing you a vast collection of mouthwatering recipes covering a wide range of cuisines. Whether you're a seasoned chef or a beginner in the kitchen, you'll find something to tantalize your taste buds here. From comforting classics to innovative culinary creations, our recipes are curated to inspire and delight food enthusiasts of all levels.
